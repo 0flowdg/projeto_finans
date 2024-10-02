@@ -10,11 +10,11 @@ A landing page **Finans** é otimizada para conversão e visa captar leads inter
 
 - **Design Responsivo**: A página se adapta a diferentes tamanhos de tela.
 - **Seções Informativas**: Informações sobre serviços, benefícios e depoimentos.
-- **Formulário de Contato**: Facilita a captura de leads.
-- **Integração com Redes Sociais**: Links diretos para perfis sociais.
 
 ## Tecnologias Utilizadas
 
 - HTML5
 - CSS3
 - Bootstrap
+
+![finans](https://github.com/user-attachments/assets/af56525e-fdf8-44b7-b23d-f8dc17c1cdc4)
